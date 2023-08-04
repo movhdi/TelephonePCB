@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=NetQ11_1 Pin=Q11-1
+Added Pin To Net: NetName=NetQ11_1 Pin=Q12-3
+Added Pin To Net: NetName=NetQ11_1 Pin=R86-2
+Added Net: Name=NetQ11_1
