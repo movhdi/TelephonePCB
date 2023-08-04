@@ -131,7 +131,9 @@ There is no licence at the moment for it. All rights reserved.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [Mahdi Movahedi](https://www.linkedin.com/in/movahedi/) - m.movahedimonfared@gmail.com
+Mahdi Movahedi - [movhdi](https://www.linkedin.com/in/movahedi/) - m.movahedimonfared@gmail.com
+
+Ali Ghasemi - [alighasemi59](https://www.linkedin.com/in/ali-ghasemi-ba2454b7/) - ghasemi10864@gmail.com
 
 Project Link: [https://github.com/movhdi/TelephonePCB](https://github.com/movhdi/TelephonePCB)
 
