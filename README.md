@@ -26,7 +26,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://www.linkedin.com/in/movahedi/">
     <img src="images/preview.png" alt="Preview" >
   </a>
 
