@@ -310,6 +310,10 @@ Variation9=Designator=R49|UniqueId=\VQUTBUHK\BCTRECEO|Kind=0|AlternatePart=
 Variation10=Designator=U1|UniqueId=\YHWGCHRE\WVQOCSRE|Kind=0|AlternatePart= 
 ParamVariationCount=0
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Telephone\Design Rule Check - PCB.html
+DItemRevisionGUID=
+
 [Parameter1]
 Name=Engineer
 Value=Mohammad Karimi
